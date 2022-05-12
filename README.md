@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tretboot
 - 👀 I’m interested in the digital future of our Planet
-- 🌱 I’m currently learning how to komm klar
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to use github
+- 💞️ I’m looking to collaborate on games
 - 📫 How to reach me ...
 
 <!---
